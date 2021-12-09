@@ -8,6 +8,8 @@ import torch.nn as nn
 from torch.autograd import Variable
 from torch.utils.data import Dataset, DataLoader
 from tests import test_prediction, test_generation
+from locked_dropout import MyLockedDropout
+from embedding_dropout import MyEmbeddingDropout
 from tqdm import tqdm
 
 class MyLockedDropout(nn.Module):
