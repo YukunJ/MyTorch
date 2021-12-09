@@ -19,7 +19,7 @@ This is the a small Python-based deep learning library implementation, mimicing 
 + [Search: (greedy Search, beam Search)](src/search.py)
 + [Connectionist Temporal Classification Cell (CTC)](src/ctc.py)
 + [CTC Loss](src/ctc_loss.py)
-+ [Locked Dropout Layer](src/)
-+ [Embedding Dropout Layer](src/)
++ [Locked Dropout Layer](src/locked_dropout.py)
++ [Embedding Dropout Layer](src/embedding_dropout.py)
 + [Language Model (prediction, generation)](src/language_model.py)
 
