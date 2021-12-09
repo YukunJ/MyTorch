@@ -6,7 +6,7 @@ This is the a small Python-based deep learning library implementation, mimicing 
 
 ### Content Covered
 
-+ Activation: (identity, sigmoid, tanh, ReLU)
++ [Activation: (identity, sigmoid, tanh, ReLU)](src/activation.py)
 + Batchnorm
 + SoftmaxCrossEntropy
 + Linear Layer
