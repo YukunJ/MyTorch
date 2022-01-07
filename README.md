@@ -1,6 +1,6 @@
 ## MyTorch -- A Small Deep Learning Library Implementation
 
-This is the a small NumPy-based deep learning library implementation, mimicing PyTorch. It originates from the course [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F21/index.html) at Carnegie Mellon Fall 2021.
+This is a small NumPy-based deep learning library implementation, mimicing PyTorch. It originates from the course [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F21/index.html) at Carnegie Mellon Fall 2021.
 
 ---
 
